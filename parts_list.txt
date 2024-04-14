@@ -1,0 +1,87 @@
+Link: https://www.adafruit.com/product/3073
+
+
+Name: Adafruit RFM95W LoRa Radio Transceiver
+
+
+Price: 19.95
+
+
+About: LoRa radio receiver/transmitter. Able to transmit 2km-20km based on antenna and obstacles. Probably will be on the low side for us since we don’t have shaped antennas. Don’t know if it plays well with other modules, so just buying 2 for shore and the boat is probably easiest.
+
+
+Need separate antenna. Documentation is really strong (adafruit) which is nice. 
+
+
+Quantity needed: 2
+
+
+CAN Controller
+https://www.amazon.com/CAN-Bus-Compatible-Controller-Transceiver-MCP2551/dp/B076DSQFXH?th=1
+
+
+Name: CAN-BUS Shield V2 
+
+
+Price : 34.00$
+
+
+About: Shield for arduino UNO that can read and send can messages. Also has SD card slot so you can save messages there
+
+
+Quantity needed: 1
+
+
+
+
+
+
+Adopters
+https://www.adafruit.com/product/1661
+Quantity needed: 2
+
+
+https://www.adafruit.com/product/851
+Quantity needed: 2
+
+
+
+
+
+
+Antenna:
+
+
+https://www.adafruit.com/product/4394
+Quantity needed: 2
+
+
+About: Small 2db gain antenna, might need bigger antenna after we test.
+
+
+
+
+
+
+https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant
+
+
+Name: ELEGOO UNO R3 Board ATmega328P
+
+
+Quantity Needed: 1
+
+
+Price: 15$
+
+
+About: Needed to use the CAN shield.
+
+
+
+
+
+
+
+
+TOTAL PRICE: ~90$
